@@ -1,0 +1,21 @@
+{
+  "name": "ptarmigan",
+  "version": "1.0.0",
+  "homepage": "https://github.com/blockgiven/ptarmigan",
+  "authors": [
+    "block_given? <block_given@outlook.com>"
+  ],
+  "description": "My translation toolkit.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.1"
+  }
+}
