@@ -1,0 +1,22 @@
+{
+  "name": "ptarmigan",
+  "version": "1.0.0",
+  "description": "my translation toolkit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blockgiven/ptarmigan.git"
+  },
+  "author": "block_given@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blockgiven/ptarmigan/issues"
+  },
+  "homepage": "https://github.com/blockgiven/ptarmigan",
+  "private": true,
+  "dependencies": {
+    "bower": "^1.3.12"
+  }
+}
